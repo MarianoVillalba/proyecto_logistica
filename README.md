@@ -58,3 +58,6 @@ streamlit run dashboard.py
 Se abrirá el navegador con el dashboard.
 
 Usar el panel lateral para seleccionar días de simulación y presionar Ejecutar Simulación.
+=======
+
+>>>>>>> f8d0325ffb45c7ae9b38d95bd141d31a5586e17d
